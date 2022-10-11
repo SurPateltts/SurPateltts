@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SurPateltts, an employee at LTTS
+- 👋 Hi, I’m @SurPateltts, from ltts
 - 👀 I’m interested in DL/ML
 - 🌱 I’m currently learning MLOps, CNN, RNN
 - 💞️ I’m looking to collaborate on DL/ML Solutions/Ideas
